@@ -1,149 +1,239 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG7"
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-id="eromania4k",Eromania 4k
 
+http://tv.woobl.ru:9090/channel/520235b/index.m3u8?q=aa92189359a45fceace776746f4be3d9
 
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-id="brazzers-tv-europe-ru",Brazzers TV Европа (Россия)
 
+http://api.peers.tv/timeshift/brazzers_tv_europe_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzU2NDYwMjAsImlhdCI6MTc3NTU1OTYyMCwiY2lkIjo2LCJ1aWQiOjEwMjk3NjI4OTUsInJlZyI6ZmFsc2UsImlwIjoxODMzNTUzODQ3LCJhZHVsdCI6ZmFsc2V9.aNO5E7TinAiwAnhLn_hQHIHHXz09ehCcXp6tKfqtW1A&offset=3
 
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-id="brazzers-tv-europe",Brazzers TV HD
 
+http://tv.woobl.ru:9090/channel/n76381705/index.m3u8?q=aa92189359a45fceace776746f4be3d9
 
-#EXTINF:-1 group-title="18+" tvg-id="shalun",Шалун HD
-http://api.peers.tv/timeshift/shalun/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjM4MDE4MDEsImlhdCI6MTc2MzcxNTQwMSwiY2lkIjo2LCJ1aWQiOjk2Njc2NTk0NiwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI2MzYsImFkdWx0IjpmYWxzZX0.JkE3jCtKuZlHYvf0QlKDe-5Ah_rv_9_xItMZETM6VQ0&offset=10
-#EXTINF:-1 group-title="18+" tvg-id="exxxotica",Exxxotica HD
-http://api.peers.tv/timeshift/exxxotica_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjM4MDE4MDEsImlhdCI6MTc2MzcxNTQwMSwiY2lkIjo2LCJ1aWQiOjk2Njc2NTk0NiwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI2MzYsImFkdWx0IjpmYWxzZX0.JkE3jCtKuZlHYvf0QlKDe-5Ah_rv_9_xItMZETM6VQ0&offset=10#EXTINF:-1 group-title="18+" tvg-id="blue-hustler",Blue Hustler
-http://api.peers.tv/timeshift/blue_hustler_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjM4MDE4MDEsImlhdCI6MTc2MzcxNTQwMSwiY2lkIjo2LCJ1aWQiOjk2Njc2NTk0NiwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI2MzYsImFkdWx0IjpmYWxzZX0.JkE3jCtKuZlHYvf0QlKDe-5Ah_rv_9_xItMZETM6VQ0&offset=10#EXTINF:-1 group-title="18+" tvg-id="erox",Erox
-http://api.peers.tv/timeshift/erox_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjM4MDE4MDEsImlhdCI6MTc2MzcxNTQwMSwiY2lkIjo2LCJ1aWQiOjk2Njc2NTk0NiwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI2MzYsImFkdWx0IjpmYWxzZX0.JkE3jCtKuZlHYvf0QlKDe-5Ah_rv_9_xItMZETM6VQ0&offset=10#EXTINF:-1 group-title="18+" tvg-id="brazzers-tv-europe",Brazzers TV Europe
-http://api.peers.tv/timeshift/brazzers_tv_europe_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjM4MDE4MDEsImlhdCI6MTc2MzcxNTQwMSwiY2lkIjo2LCJ1aWQiOjk2Njc2NTk0NiwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI2MzYsImFkdWx0IjpmYWxzZX0.JkE3jCtKuZlHYvf0QlKDe-5Ah_rv_9_xItMZETM6VQ0&offset=10#EXTINF:-1 group-title="18+" tvg-id="redlips",Red Lips HD
-http://api.peers.tv/timeshift/red_lips_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjM4MDE4MDEsImlhdCI6MTc2MzcxNTQwMSwiY2lkIjo2LCJ1aWQiOjk2Njc2NTk0NiwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI2MzYsImFkdWx0IjpmYWxzZX0.JkE3jCtKuZlHYvf0QlKDe-5Ah_rv_9_xItMZETM6VQ0&offset=10#EXTINF:-1 group-title="18+" tvg-id="playboy-tv",Playboy TV
-http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjM4MDE4MDEsImlhdCI6MTc2MzcxNTQwMSwiY2lkIjo2LCJ1aWQiOjk2Njc2NTk0NiwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI2MzYsImFkdWx0IjpmYWxzZX0.JkE3jCtKuZlHYvf0QlKDe-5Ah_rv_9_xItMZETM6VQ0&offset=10#EXTINF:-1 group-title="18+" tvg-id="babes-tv",Babes TV
-http://api.peers.tv/timeshift/babes_tv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjM4MDE4MDEsImlhdCI6MTc2MzcxNTQwMSwiY2lkIjo2LCJ1aWQiOjk2Njc2NTk0NiwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI2MzYsImFkdWx0IjpmYWxzZX0.JkE3jCtKuZlHYvf0QlKDe-5Ah_rv_9_xItMZETM6VQ0&offset=10#EXTINF:-1 group-title="18+" tvg-id="russkaya-noch",Русская ночь
-http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjM4MDE4MDEsImlhdCI6MTc2MzcxNTQwMSwiY2lkIjo2LCJ1aWQiOjk2Njc2NTk0NiwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI2MzYsImFkdWx0IjpmYWxzZX0.JkE3jCtKuZlHYvf0QlKDe-5Ah_rv_9_xItMZETM6VQ0&offset=10
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-id="shalun",Шалун HD
 
-#EXTINF:-1 group-title="18+",VINTAGE TITS | VHS TV
-https://v2.catcast.tv/content/47776/index.m3u8?password=kizugtv
+https://woobl.ru/usp/TVE9PQ/380.m3u8
 
-#EXTINF:-1 group-title="18+",EROX
-http://195.191.208.5:8087/udp/239.60.64.6:6410
-#EXTINF:-1 group-title="18+" tvg-id="babes-tv" tvg-logo="https://iptvx.one/picons/babes-tv.png",Babes TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="18+" tvg-id="brazzers-tv-europe" tvg-logo="https://iptvx.one/picons/brazzers.png",Brazzers TV Europe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="18+" tvg-id="dorcel" tvg-logo="https://iptvx.one/picons/dorcel.png",Dorcel HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="18+" tvg-id="erox" tvg-logo="https://iptvx.one/picons/erox.png",Erox HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="18+" tvg-id="eroxxxhd" tvg-logo="https://iptvx.one/picons/eroxxxhd.png",Eroxxx HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="18+" tvg-id="digital-desire" tvg-logo="https://iptvx.one/picons/digital-desire.png",Digital Desire HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="18+" tvg-id="extasytv" tvg-logo="https://iptvx.one/picons/extasytv.png",Extasy TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="18+" tvg-id="leo-tv-xxx" tvg-logo="https://iptvx.one/picons/leo-tv-xxx.png",Leo TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="18+",Leo TV Gold
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://88.212.7.11/live/test_leogold_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="18+" tvg-id="reality-kings" tvg-logo="https://iptvx.one/picons/reality-kings.png",Reality Kings
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="18+",Dusk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Red Lips
 
+http://tv.woobl.ru:9090/channel/1e51849b/index.m3u8?q=aa92189359a45fceace776746f4be3d9
 
-#EXTINF:-1 group-title="18+", Русская ночь
-http://77.235.1.19:8000/play/a007/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="18+", Erox
-http://77.235.1.19:8000/play/a07x/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="18+", Playboy TV
-http://77.235.1.19:8000/play/a06p/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="18+", Red Lips
-http://77.235.1.19:8000/play/a006/index.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-id="redlips",Red Lips HD
 
-#EXTINF:-1 group-title="18+", Miami Mexico 
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/.m3u8
-#EXTINF:-1 group-title="18+", КИНО 18+ INTERNATIONAL
-https://v2.catcast.tv/content/40381/index.m3u8?password=kizugtv
-#EXTINF:-1 group-title="18+",dorcel tv
-http://213.169.39.30:5020
-#EXTINF:-1 group-title="18+",Vivid Red
-http://103.49.40.100:30010/VIVIDREDHD
-#EXTINF:-1 group-title="18+",Vivid TV EUROPE
-http://213.169.39.30:5269
-#EXTINF:-1 group-title="18+",Sextreme
-http://181.188.216.5:18000/play/a01i/index.m3u8
-#EXTINF:-1 group-title="18+",Venus
-http://181.188.216.5:18000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="18+", Playboy HD
-http://181.188.216.5:18000/play/a0o4/index.m3u8
-#EXTINF:-1 group-title="18+",Playboy
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="18+",Hustler HD
-http://193.111.244.35:7474/hustlerhd/manifest.m3u8
-#EXTINF:-1 group-title="18+",Porn Classic
-http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
-#EXTINF:-1 group-title="18+",Private SD
-http://213.169.39.30:5036
-#EXTINF:-1 group-title="18+", XY PLUS
-http://213.169.39.30:5272
-#EXTINF:-1 group-title="18+",Hustler TV
-http://213.169.39.30:5115
-#EXTINF:-1 group-title="18+",EXXXOTICA
-http://31.148.48.15/O-la-la/index.m3u8
-#EXTINF:-1 group-title="18+",Red Lips
-http://77.235.1.19:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="18+",Русская ночь
-http://77.235.1.19:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="18+",PASSIONXXX teenclub
-http://78.128.125.60:9981/play/a00i/index.m3u8
+https://woobl.ru/usp/TVE9PQ/389.m3u8
 
-#EXTINF:-1 group-title="18+",Pink Club TV HD
-https://5f22d76e220e1.streamlock.net/canale7/canale7/playlist.m3u8
-#EXTINF:-1 group-title="18+",PassionXXX groupsex
-https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
-#EXTINF:-1 group-title="18+",CentoXCento HD
-https://5f22d76e220e1.streamlock.net/canale10/canale10/playlist.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-id="redlight-hd",Redlight HD
 
-#EXTINF:-1 group-title="18+",Adult Big Ass
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 group-title="18+",Adult Big Dick
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="18+",Adult Blonde
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="18+",Adult Blowjob
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 group-title="18+",Adult Compilation
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 group-title="18+",Adult Fetish
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 group-title="18+",Adult Interracial
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 group-title="18+",Adult Latina
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 group-title="18+",Adult Lesbian
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 group-title="18+",Adult Live Cams
-http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 group-title="18+",Adult Milf
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 group-title="18+",Adult Pornstar
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 group-title="18+",Adult POV
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 group-title="18+",Adult Rough
+http://tv.woobl.ru:9090/channel/16b024b/index.m3u8?q=aa92189359a45fceace776746f4be3d9
+
+#EXTINF:-1 group-title="🔞 Взрослые",Exxxotica HD
+
+http://tv.woobl.ru:9090/channel/n24a80a7/index.m3u8?q=aa92189359a45fceace776746f4be3d9
+
+#EXTINF:-1 group-title="🔞 Взрослые",Blue Hustler
+
+http://tv.woobl.ru:9090/channel/n2b206af/index.m3u8?q=aa92189359a45fceace776746f4be3d9
+
+#EXTINF:-1 group-title="🔞 Взрослые",Erox
+
+https://woobl.ru/lm3.php?id=erox&p=index.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые",Eroxxx HD
+
+http://tv.woobl.ru:9090/channel/n2b56738/index.m3u8?q=aa92189359a45fceace776746f4be3d9
+
+#EXTINF:-1 group-title="🔞 Взрослые",Vivid Red HD
+
+http://tv.woobl.ru:9090/channel/352b54f9/index.m3u8?q=aa92189359a45fceace776746f4be3d9
+
+#EXTINF:-1 group-title="🔞 Взрослые",Playboy TV
+
+http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzU2NDYwMDUsImlhdCI6MTc3NTU1OTYwNSwiY2lkIjo2LCJ1aWQiOjEwMjk3NjI4MDEsInJlZyI6ZmFsc2UsImlwIjoxODMzNTUzODQ3LCJhZHVsdCI6ZmFsc2V9.p38aMHRl-YnXGBFjuBK4mnH9VUVCs9lZX-yvGwWPHcY&offset=3
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-id="private-tv",Private TV
+
+http://tv.woobl.ru:9090/channel/6011ed4b/index.m3u8?q=aa92189359a45fceace776746f4be3d9
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://avatars.dzeninfra.ru/get-zen_doc/4956378/pub_64009ce98297f70ba28e6988_64009d307d73c10e2f5fdbc1/scale_1200",Porn Classic
+
+http://tv.woobl.ru:9090/channel/n5ac0f468/index.m3u8?q=aa92189359a45fceace776746f4be3d9
+
+#EXTINF:-1 group-title="🔞 Взрослые",Русская ночь
+
+http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzU2NDYwMjAsImlhdCI6MTc3NTU1OTYyMCwiY2lkIjo2LCJ1aWQiOjEwMjk3NjI4OTUsInJlZyI6ZmFsc2UsImlwIjoxODMzNTUzODQ3LCJhZHVsdCI6ZmFsc2V9.aNO5E7TinAiwAnhLn_hQHIHHXz09ehCcXp6tKfqtW1A&offset=3
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-id="digital-desire",Digital Desire HD
+
+http://tv.woobl.ru:9090/channel/2104751e/index.m3u8?q=aa92189359a45fceace776746f4be3d9
+
+#EXTINF:-1 group-title="🔞 Взрослые",Barely legal
+
+http://tv.woobl.ru:9090/channel/n657bc6e2/index.m3u8?q=aa92189359a45fceace776746f4be3d9
+
+#EXTINF:-1 group-title="🔞 Взрослые",Hustler HD
+
+http://tv.woobl.ru:9090/channel/318ad11d/index.m3u8?q=aa92189359a45fceace776746f4be3d9
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-id="babes-tv",Babes TV HD
+
+http://tv.woobl.ru:9090/channel/n32e6ece3/index.m3u8?q=aa92189359a45fceace776746f4be3d9
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-id="dorcel",Dorcel TV HD
+
+http://tv.woobl.ru:9090/channel/n5cc3f157/index.m3u8?q=aa92189359a45fceace776746f4be3d9
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-id="extasytv",Extasy TV HD
+
+http://tv.woobl.ru:9090/channel/503778c/index.m3u8?q=aa92189359a45fceace776746f4be3d9
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Rough
+
 http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="18+",Adult Russian
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 group-title="18+",Adult Teen
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 group-title="18+",Adult Threesome
-http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 group-title="18+" tvg-logo="http://wow-model.com/wp-content/uploads/2017/09/visit-x-tv.jpg",Visit-X
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Blonde
+
+http://cdn.adultiptv.net/blonde.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Anal
+
+http://cdn.adultiptv.net/anal.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Live Cams
+
+http://cdn.adultiptv.net/livecams.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Russian
+
+http://cdn.adultiptv.net/russian.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Threesome
+
+http://cdn.adultiptv.net/threesome.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Hardcore
+
+http://cdn.adultiptv.net/hardcore.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Teen
+
+http://cdn.adultiptv.net/teen.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Blowjob
+
+http://cdn.adultiptv.net/blowjob.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",POV
+
+http://cdn.adultiptv.net/pov.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Latina
+
+http://cdn.adultiptv.net/latina.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Interracial
+
+http://cdn.adultiptv.net/interracial.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Big Ass
+
+http://cdn.adultiptv.net/bigass.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Fetish
+
+http://cdn.adultiptv.net/fetish.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Big Tits
+
+http://live.redtraffic.xyz/bigtits.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Big Dick
+
+http://cdn.adultiptv.net/bigdick.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",MILF
+
+http://cdn.adultiptv.net/milf.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Pornstar
+
+http://cdn.adultiptv.net/pornstar.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Lesbian
+
+http://cdn.adultiptv.net/lesbian.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Gay
+
+http://cdn.adultiptv.net/gay.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Bigass HD
+
+http://live.redtraffic.xyz/bigass.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Cuckold HD
+
+http://live.redtraffic.xyz/cuckold.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Fetish HD
+
+http://live.redtraffic.xyz/fetish.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Hard Core
+
+http://live.redtraffic.xyz/hardcore.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Interracial HD
+
+http://live.redtraffic.xyz/interracial.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Latina HD 720
+
+http://live.redtraffic.xyz/latina.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Lesbian HD
+
+http://live.redtraffic.xyz/lesbian.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Milf HD
+
+http://live.redtraffic.xyz/milf.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",Pornstar HD
+
+http://live.redtraffic.xyz/pornstar.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://i.ibb.co/HXqyJYY/18.png",POV HD 720
+
+http://live.redtraffic.xyz/pov.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые",Кино 18+ International
+
+http://tv.woobl.ru:9090/channel/n6ed40f5d/index.m3u8?q=aa92189359a45fceace776746f4be3d9
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-id="no_epg" tvg-logo="https://www.goiptv.top/upload/REALITY-KINGS-TV-LOGO.png",Reality Kings TV
+
+http://tv.woobl.ru:9090/channel/219d75dc/index.m3u8?q=aa92189359a45fceace776746f4be3d9
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-id="passionxxx",PassionXXX HD
+
+http://tv.woobl.ru:9090/channel/n6483757d/index.m3u8?q=aa92189359a45fceace776746f4be3d9
+
+#EXTINF:-1 group-title="🔞 Взрослые",Penthouse Gold HD
+
+http://tv.woobl.ru:9090/channel/491ec475/index.m3u8?q=aa92189359a45fceace776746f4be3d9
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/image-18-2048x902.png",Leo TV
+
+http://tv.woobl.ru:9090/channel/788fe844/index.m3u8?q=aa92189359a45fceace776746f4be3d9
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqORiRitDqn2R8PSKF7BXUHjId1B0eJwES7WCjOjeQ=s900-c-k-c0x00ffffff-no-rj",Rouge TV
+
+http://edge13.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-id="no_epg" tvg-logo="http://hochu.tv/images/oh-ah.png",ОХ-АХ HD
+
+http://tv.woobl.ru:9090/channel/n3bf93cb3/index.m3u8?q=aa92189359a45fceace776746f4be3d9
+
+#EXTINF:-1 group-title="🔞 Взрослые" tvg-id="no_epg" tvg-logo="http://sweet-tv.net/images/kinoxxx.png",KinoXXX
+
+http://tv.woobl.ru:9090/channel/121219cd/index.m3u8?q=aa92189359a45fceace776746f4be3d9
